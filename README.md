@@ -1,3 +1,5 @@
+Este é um projeto simples que consiste em um script .bat para compactar arquivos.
+
 @echo off
 rem Com esse comando desabilitamos a exibição dos comandos no prompt do Windows relacionados ao conteúdo das instruções contidas no arquivo. - Alura
 
